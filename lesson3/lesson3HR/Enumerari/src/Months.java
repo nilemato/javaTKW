@@ -1,0 +1,6 @@
+public enum Months {
+    IANUARIE, FEBRUARIE, MARTIE,
+    APRILIE,    MAI,    IUNIE,
+    IULIE,    AUGUST,    SEPTEMBRIE,
+    OCTOMBRIE,    NOIEMBRIE,    DECEMBRIE
+}

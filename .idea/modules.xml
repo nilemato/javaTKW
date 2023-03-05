@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lesson3/lesson3HR/Enumerari/Enumerari.iml" filepath="$PROJECT_DIR$/lesson3/lesson3HR/Enumerari/Enumerari.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson6/Lesson6HW/Lesson6HW.iml" filepath="$PROJECT_DIR$/lesson6/Lesson6HW/Lesson6HW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson3/lesson3HR/StringConverter/StringConverter.iml" filepath="$PROJECT_DIR$/lesson3/lesson3HR/StringConverter/StringConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaTKW.iml" filepath="$PROJECT_DIR$/javaTKW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson1/lesson1/lesson1.iml" filepath="$PROJECT_DIR$/lesson1/lesson1/lesson1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson3/lesson3HR/lesson3HR.iml" filepath="$PROJECT_DIR$/lesson3/lesson3HR/lesson3HR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson4/lesson4HM/lesson4HM.iml" filepath="$PROJECT_DIR$/lesson4/lesson4HM/lesson4HM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson5/lesson5.iml" filepath="$PROJECT_DIR$/lesson5/lesson5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson5/lesson5CR/lesson5CR.iml" filepath="$PROJECT_DIR$/lesson5/lesson5CR/lesson5CR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson5/lesson5HW/lesson5HW.iml" filepath="$PROJECT_DIR$/lesson5/lesson5HW/lesson5HW.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson6/lesson6.iml" filepath="$PROJECT_DIR$/lesson6/lesson6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lesson6/lesson6CR/lesson6CR.iml" filepath="$PROJECT_DIR$/lesson6/lesson6CR/lesson6CR.iml" />
+    </modules>
+  </component>
+</project>
